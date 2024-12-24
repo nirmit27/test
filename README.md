@@ -12,7 +12,7 @@ Use the following commands for setting up Redis.
 
 - **Start up**
     ```bash
-    sudo service start redis-server
+    sudo service redis-server start
     ```
 
 - **Verifying installation**
